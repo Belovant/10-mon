@@ -93,7 +93,7 @@
 
 Решение:
 
-![Screenshot from 2024-01-26 13-31-06](https://github.com/busuek/work/assets/101875725/18b19e7c-cf05-4dbf-b05e-4af0bfe8436c)
+![image](https://github.com/Belovant/10-mon/assets/107868869/6231423b-4cec-450b-a589-a8ef6e602c62)
 
 Задание 8. Перейдите в веб-интерфейс Chronograf (http://localhost:8888) и откройте вкладку Data explorer.
 
@@ -104,7 +104,7 @@
 
 Решение:
 
-![Screenshot from 2024-01-26 13-35-46](https://github.com/busuek/work/assets/101875725/25f4aeae-f565-4721-87e7-a9129bc7d325)
+![image](https://github.com/Belovant/10-mon/assets/107868869/80488095-0a25-43e7-9a3d-e5223452ca01)
 
 Задание 9. Изучите список telegraf inputs. Добавьте в конфигурацию telegraf следующий плагин - docker:
 ```
@@ -132,4 +132,5 @@ endpoint = "unix:///var/run/docker.sock"
 
 >После настройки перезапустите telegraf, обновите веб интерфейс и приведите скриншотом список measurments в веб-интерфейсе базы telegraf.autogen . Там должны появиться метрики, связанные с docker.
 
-![image](https://github.com/busuek/work/assets/101875725/6861fe23-4fb0-4d2b-a622-0c85a8ca27a9)
+![image](https://github.com/Belovant/10-mon/assets/107868869/fa7359a2-4efd-4218-9f98-205b3d4aadbf)
+
