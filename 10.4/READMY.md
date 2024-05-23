@@ -1,1 +1,24 @@
+Задание 1
+
+1. Вам необходимо поднять в докере и связать между собой:
+
+- elasticsearch (hot и warm ноды);
+- logstash;
+- kibana;
+- filebeat.
+- Logstash следует сконфигурировать для приёма по tcp json-сообщений. Filebeat следует сконфигурировать для отправки логов docker вашей системы в logstash.
+
+![image](https://github.com/Belovant/10-mon/assets/107868869/22b65268-d86c-44c3-a7bc-6c3f21a25ec3)
+
+Задание 2
+
+Перейдите в меню создания index-patterns в kibana и создайте несколько index-patterns из имеющихся.
+
+Перейдите в меню просмотра логов в kibana (Discover) и самостоятельно изучите, как отображаются логи и как производить поиск по логам.
+
+![image](https://github.com/Belovant/10-mon/assets/107868869/2c072b6d-c106-40ac-ae61-37e6523ec58d)
+
+![image](https://github.com/Belovant/10-mon/assets/107868869/d123fa1b-3aee-4fc6-aa6c-08863f8d1673)
+
+![image](https://github.com/Belovant/10-mon/assets/107868869/c232a2ec-9dc5-4c1f-876c-cee8aa9d3bdb)
 
